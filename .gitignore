@@ -44,5 +44,5 @@ app.*.map.json
 /android/app/release
 
 #Envied
-*.env
+.env.development
 env.g.dart
