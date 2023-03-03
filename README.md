@@ -18,7 +18,7 @@ Luego se agregan los campos que son necesarios para el consumo de la API
 
 Versión del proyecto: 
 
-**Flutter version 3.7.5 - channel stable**
+**Flutter version 3.7.5 - channel stable $$$$ **
 **Dart version 2.19.2**
 
 Para su uso es necesario los siguientes comandos
